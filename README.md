@@ -11,7 +11,7 @@ Please set GIT_AUTH_KEY as your git auth key on constants.js file.
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm install`
 ### `npm start`
 ### `npm test`
 ### `npm run build`
