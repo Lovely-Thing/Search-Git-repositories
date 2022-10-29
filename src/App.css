@@ -1,0 +1,15 @@
+@import '~antd/dist/antd.css';
+
+.header {
+  background: #0083ff;
+  color: #fff;
+  font-size: 30px;
+}
+
+.search {
+  width: fit-content;
+  max-width: 400px;
+  float: right;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
